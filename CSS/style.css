@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    text-align: center;
+}
+p{
+    color: rgb(2, 56, 38);
+}
+button{
+    color: teal;
+    background-color: yellow;
+}
+body{
+    background-color: rgb(61, 130, 199);
+}
+#para1{
+    color: brown;
+}
